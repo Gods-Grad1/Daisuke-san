@@ -1,7 +1,7 @@
 { pkgs }: {
     deps = [
 
-        pkgs.nodejs-16_x
+        pkgs.nodejs-16.20.0
         pkgs.libwebp
         pkgs.python
 	      pkgs.nodePackages.typescript
