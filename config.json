@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["27767752205@s.whatsapp.net","26774340395@s.whatsapp.net"],
+    "ownerNumber": ["27767752205@s.whatsapp.net"],
     "ownerName": "Gradi-Daisuke",
     "instagram" : "https://www.instagram.com/gradig3k/#",
     "botName": "𝕯𝖊𝖛𝖎𝖑𝖎𝖈𝕿𝖊𝖆𝖗𝖘",
@@ -7,7 +7,7 @@
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
-    "BotKey": "G3K",
+    "BotKey": "apikey lu taro sini",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false,    
     "autobio": true,
